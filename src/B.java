@@ -4,4 +4,7 @@ public class B {
 	public B() {
 		this.str = "";
 	}
+	public B(String str){
+		this.str = str;
+	}
 }
